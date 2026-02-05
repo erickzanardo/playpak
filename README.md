@@ -4,4 +4,5 @@ Playpak is a platform for developments to easily publish their web games to play
 
 Still in development!
 
-![Playpak Logo](./app/assets/logo.png)
+<img src="./app/assets/logo.png"  height="100"/>
+
